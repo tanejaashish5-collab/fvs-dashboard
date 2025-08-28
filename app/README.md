@@ -7,9 +7,9 @@ Structure:
   - page.tsx
   - dashboard/page.tsx
   - api/episodes/route.ts
-- package.json
-- tsconfig.json
-- next.config.mjs
+  - package.json
+  - tsconfig.json
+  - next.config.mjs
 
 Set environment variables in Vercel:
 - AIRTABLE_PAT
